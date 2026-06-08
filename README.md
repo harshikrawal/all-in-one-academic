@@ -1,16 +1,7 @@
-# Student Organizer Website
-- ( contribute or at least leave a star )
+# All-in-one-academic
 
-<div align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-![Open Pull Requests][open-pr-shield] ![Closed Pull Requests][closed-pr-shield]
-[![MIT License][license-shield]][license-url]
 
-</div>
 <p align="center">
     <img src="./backend-app/docs/logo.png" height="350" style="border-radius: 25px;" />
 </p>
